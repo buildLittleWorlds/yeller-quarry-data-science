@@ -1,0 +1,13 @@
+crew_id,crew_name,leader,second_in_command,crew_size,home_sector,specialty,formation_year,years_active,status,base_camp,employer,pay_rate_per_expedition,notes
+CRW001,Redmane Expedition,The Boss,Truck,14,Western Marsh,deep_cave,1847,8,disbanded,"Cave Mouth Hill",Independent,450,"Boss had red hair in maze-braid; Truck killed by creature"
+CRW002,Gull's Remnants,Gull,Ox,7,Western Marsh,surface_trap,1855,2,active,"Marsh Edge Camp",The Boss (contracted),280,"Formed after Redmane disaster; Gull tells stories"
+CRW003,Miasto Trappers Guild,Kerrick,Vann,22,Miasto,general,1832,25,active,"Miasto Outpost",Guild Charter,320,"Oldest operating crew; supplies Capital directly"
+CRW004,Black Yeller Company,Black Yeller,White Yeller,5,Nomadic,yeller_hunting,unknown,unknown,active,None,Unknown,unknown,"Five women who move as one; rescued The Boss"
+CRW005,Quarry Rim Collectors,Doshen,Marga,9,Eastern Ridge,surface_specimen,1851,6,active,"Ridge Station",Senate Zoological Fund,380,"Specializes in live capture for Capital displays"
+CRW006,Deep Tunnel Syndicate,Harrow,Ketch,16,Central Quarry,deep_bore,1843,14,active,"Shaft House",Multiple Archivists,520,"Most dangerous work; highest casualty rate"
+CRW007,Marsh Edge Scavengers,Polks,none,4,Western Marsh,scavenging,1854,3,active,"Temporary camps",Various,180,"Polks is cook and doctor; small flexible crew"
+CRW008,Grimslew Salvagers,Captain Yuro,Brist,11,Grimslew Shore,wharver,1838,19,active,"Shore Station",Capital Trade House,600,"Only crew that works Grimslew; extremely dangerous"
+CRW009,Senator's Private Catch,unknown,unknown,8,Variable,specialty,1849,8,active,Variable,"Senator Huilof",negotiated,"Procures specific specimens for political events"
+CRW010,Northo Boundary Watch,Skellan,Drumm,12,Northern Edge,boundary,1845,12,active,"North Station","Borough Council",290,"Also monitors for child disappearances"
+CRW011,Amalgam Specialists,Dr. Vetch,Corso,6,Central Quarry,scientific,1852,5,active,"Research Camp","Capital Archives",440,"Collects for archivist study; maps compositions"
+CRW012,Cave Mouth Irregulars,Harch,none,5,Western Marsh,opportunistic,1856,1,disbanded,None,The Boss (contracted),200,"New crew; Harch was mentored by Gull"

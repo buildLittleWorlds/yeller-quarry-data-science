@@ -1,0 +1,31 @@
+incident_id,date,sector,incident_type,severity,crew_id,crew_member,creature_involved,description,outcome,reported_to,investigation_status
+INC001,1855-03-12,Western Marsh,animal_attack,minor,CRW001,unnamed,CR004,"Swamp hornet nest disturbed during trap deployment","Crew retreated; minor stings",The Boss,closed
+INC002,1855-03-13,Western Marsh,animal_death,minor,CRW001,none,none,"Expedition dog killed by unknown cause in cave","Dog buried; superstition arose",The Boss,closed
+INC003,1855-03-18,Cave Interior,animal_attack,fatal,CRW001,Truck,CR022,"Creature attacked expedition; Truck jumped to defend Boss","Truck killed; face destroyed; Boss missing",Gull,open
+INC004,1855-03-18,Cave Interior,disappearance,unknown,CRW001,The Boss,CR022,"Boss thrown by creature during attack","Missing; presumed dead; Black Yeller went to retrieve",Gull,open
+INC005,1855-03-18,Cave Interior,injury,severe,CRW001,multiple,CR022,"Three men emerged covered in mud and blood","Treated by Polks; psychological trauma",Gull,closed
+INC006,1855-01-15,Miasto Sector,equipment_failure,minor,CRW003,none,none,"Pit trap collapsed during deployment","Trap lost; no injuries",Kerrick,closed
+INC007,1855-02-08,Miasto Sector,animal_injury,moderate,CRW003,Vann,CR002,"Stone spine lizard spine grazed handler during caging","Wound treated; full recovery",Kerrick,closed
+INC008,1855-03-05,Grimslew Shore,burn,moderate,CRW008,Brist,CR009,"Wharver belly steam burn during capture attempt","Burns treated; scarring expected",Captain Yuro,closed
+INC009,1855-03-18,Grimslew Shore,equipment_loss,minor,CRW008,none,CR009,"Net destroyed by wharver hot belly","Equipment replaced",Captain Yuro,closed
+INC010,1855-01-25,Central Quarry,injury,minor,CRW006,unnamed,CR025,"Deep borer bit handler during extraction","Puncture wound; treated",Harrow,closed
+INC011,1855-02-18,Central Quarry,animal_death,minor,CRW006,none,CR011,"Three cave bats killed by snare mechanism","Incidental; not target species",Harrow,closed
+INC012,1855-03-01,Central Quarry,equipment_failure,moderate,CRW006,none,none,"Snare mechanism damaged at record depth","Repairs required; expedition delayed",Harrow,closed
+INC013,1855-02-01,Central Quarry,collapse,moderate,CRW006,none,none,"Pit trap collapsed; suspected densgrit infiltration","Trap abandoned; area flagged",Harrow,open
+INC014,1855-01-28,Northern Edge,child_sighting,unknown,CRW010,Skellan,none,"Child seen near quarry boundary; disappeared when approached","Reported to Borough Council; no trace found",Borough Council,open
+INC015,1855-02-15,Northern Edge,child_sighting,unknown,CRW010,Drumm,none,"Two children seen at dusk; moving toward quarry interior","Search conducted; nothing found",Borough Council,open
+INC016,1855-03-10,Northern Edge,disappearance,severe,CRW010,none,none,"Family reports child missing; last seen near quarry boundary","Ongoing search; no body found",Borough Council,open
+INC017,1855-02-20,Variable,yeller_phenomenon,unknown,CRW009,unnamed,CR019,"Yeller birds exhibited strange synchronized behavior during capture","Birds secured; scholar interest noted",Senator Huilof,closed
+INC018,1855-02-25,Senator's Estate,yeller_phenomenon,minor,none,none,CR019,"Nothing bird dropped into stone vase; started sequence","Senator's daughter fascinated; Puncho bewildered",Senator Huilof,closed
+INC019,1855-04-02,Western Marsh,superstition,none,CRW002,Gull,none,"Gull told stories of witches and spells to new crew","Truck's memory invoked; morale affected",none,none
+INC020,1855-03-19,Cave Interior,rescue,unknown,CRW004,Black Yeller,CR022,"Black Yeller led Yeller group into cave to retrieve Boss","Outcome unknown; Yeller did not return by morning",none,open
+INC021,1855-01-08,Central Quarry,structural,minor,CRW006,none,none,"Tunnel instability detected at 45m depth","Area cordoned; alternative route found",Harrow,closed
+INC022,1855-03-15,Western Marsh,weather,minor,CRW001,none,none,"Marsh flooding; bedrolls at risk of floating away","Cave mouth used as shelter",The Boss,closed
+INC023,1855-02-12,Miasto Sector,theft,minor,CRW003,none,none,"Three cave bats stolen from holding cage overnight","Suspected local; not pursued",Kerrick,closed
+INC024,1855-03-08,Grimslew Shore,anomaly,unknown,CRW008,Captain Yuro,none,"Unusual glow observed from Grimslew depths during night watch","Logged; no explanation; crew unsettled",Captain Yuro,open
+INC025,1855-04-05,Western Marsh,morale,minor,CRW002,multiple,none,"Crew reluctance to approach cave mouth after Redmane disaster","Gull addressed; surface work only",Gull,closed
+INC026,1855-02-28,Central Quarry,scientific,none,CRW011,Dr. Vetch,none,"Unusual metal composition detected in specimen amalgam","Research note; no incident per se",Dr. Vetch,closed
+INC027,1855-03-20,Central Quarry,discovery,none,CRW006,Harrow,CR005,"Maw beast carcass recovered at 55m; unprecedented find","Record sale to Capital Archives",Capital Archives,closed
+INC028,1855-01-10,Miasto,market,minor,none,none,CR006,"Yeller frog escaped display at senator's banquet; caused panic","Frog recaptured; guests disturbed",Senator unnamed,closed
+INC029,1855-03-25,Northern Edge,child_disappearance,severe,none,none,none,"Third child missing in two months; pattern suspected","Capital security consulted",Capital Security,open
+INC030,1855-04-01,Western Marsh,rumor,none,CRW002,none,none,"Rumors of Boss survival circulating; Yeller not returned","Unconfirmed; crew hopeful",none,open
